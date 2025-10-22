@@ -1,5 +1,5 @@
 # Raspberry-Pi-Morse-Decoder
-
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 Overview
 This project is an interactive Morse Code Decoder built using a Raspberry Pi and various hardware components including an LED, buzzer, rotary knob, button, and an LCD screen. I completed this in my First Year of Uni, because the code may be used for future coursework i cannot upload it.
 
